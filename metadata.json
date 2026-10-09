@@ -1,0 +1,6 @@
+{
+  "name": "AscendYouth - Youth Employment & Skills Development Platform",
+  "description": "AI-powered youth employment and career platform connecting graduates and students with local internships, mentorships, CV skill gap analysis, smart job matching, and real-time interview prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
